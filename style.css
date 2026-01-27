@@ -425,7 +425,7 @@ body {
 @media (max-width: 667px) {
    
     .container {
-        padding: 0 15px;
+        padding: 0 15px !important;
     }
     .footer .footer-links{
         padding: 10px 12px !important;
@@ -444,7 +444,8 @@ body {
 }
 @media (max-width: 415px){
     .container {
-        padding: 0 15px;
+        padding: 0 15px !important;
     }
 }
+
 
