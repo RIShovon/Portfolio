@@ -422,3 +422,23 @@ body {
         margin-bottom: 20px;
     }
 }
+@media (max-width: 667px) {
+   
+    .container {
+        padding: 0 15px;
+    }
+    .footer .footer-links{
+        padding: 10px 12px !important;
+    }
+    .footer .footer-links h4{
+        font-size: medium;
+        margin-bottom: 5px !important;
+    }
+    .footer .footer-links a{
+        font-size: smaller !important;
+    }
+    .copyright p{
+        font-size: x-small !important;
+        padding: 10px 5px !important;
+    }
+}
