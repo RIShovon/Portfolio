@@ -442,3 +442,9 @@ body {
         padding: 10px 5px !important;
     }
 }
+@media (max-width: 415px){
+    .container {
+        padding: 0 15px;
+    }
+}
+
